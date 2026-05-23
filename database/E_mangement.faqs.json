@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6a0f554b4a20318a3e775978"
+  },
+  "question": "1. How can I book a photography session?",
+  "answer": "You can book a session by contacting us through our website, phone number, or social media platforms.",
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2026-05-21T18:56:11.269Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:58:30.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f55594a20318a3e77597b"
+  },
+  "question": "2. Do you provide edited photos?",
+  "answer": "Yes, all selected photos are professionally edited and delivered in high quality.",
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2026-05-21T18:56:25.207Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:58:34.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f55624a20318a3e77597e"
+  },
+  "question": "3. How long does it take to deliver photos?",
+  "answer": "Photo delivery usually takes 5–10 business days depending on the project size.",
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2026-05-21T18:56:34.184Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:58:36.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f556a4a20318a3e775981"
+  },
+  "question": "4. Do you cover outdoor shoots?",
+  "answer": "Yes, we provide both indoor and outdoor photography services at your preferred location.",
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2026-05-21T18:56:42.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:58:41.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f55714a20318a3e775984"
+  },
+  "question": "5. What types of photography services do you offer?",
+  "answer": "We offer wedding, portrait, event, fashion, product, and travel photography services.",
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2026-05-21T18:56:49.894Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:58:44.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f557a4a20318a3e775987"
+  },
+  "question": "6. Can I customize my photography package?",
+  "answer": "Yes, photography packages can be customized according to your needs and budget.",
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2026-05-21T18:56:58.807Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:58:47.806Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "6a0dd7657b7246a4c03ccecc"
+  },
+  "title": "At cillum et accusan",
+  "image": "1779293099124.jpg",
+  "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, architecto accusamus. Velit architecto provident eligendi deleniti\r\n",
+  "fullText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum et atque inventore aperiam. Excepturi ullam, omnis magni illum laboriosam nesciunt ut repellendus tenetur neque modi consectetur adipisci est. Amet, iste voluptatum accusantium rerum deserunt praesentium voluptatibus ut unde at quam vero fuga quaerat, ab sunt iusto animi quia qui aut, delectus culpa nemo ea. Harum mollitia dolores natus necessitatibus labore modi autem laborum hic illum. Veniam, molestias? Labore explicabo eos, sunt dicta, earum reprehenderit illo sit, voluptates et nihil aliquam inventore rem! Ipsum praesentium voluptatum officiis libero quos sit, non esse? Exercitationem voluptatem cum hic sapiente, porro libero similique obcaecati magni delectus eaque provident magnam ratione eos earum molestiae atque nam quam. Pariatur, debitis modi doloribus architecto itaque, nesciunt labore ex enim accusantium cupiditate necessitatibus ut voluptates? Fugiat voluptatum laboriosam enim doloribus maiores. Natus reprehenderit ea dicta deleniti quaerat autem ipsam veritatis saepe enim repudiandae corrupti odit fuga dolorem exercitationem amet ipsum quae perspiciatis cupiditate architecto neque aut iure, facere perferendis delectus! Quas ratione voluptas aspernatur illo facere ullam repellendus odio molestiae veritatis mollitia dolor et nam sed dolores error molestias, rem velit magni consectetur nesciunt aliquid. Architecto quidem quis laboriosam aliquid repellendus. Deleniti, commodi! Officiis, commodi? Voluptatum, laborum dolorem.\r\n",
+  "date": "14-Dec-1991",
+  "createdAt": {
+    "$date": "2026-05-20T15:46:45.028Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T16:10:40.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f57424a20318a3e7759b4"
+  },
+  "title": "Capturing Beautiful Moments Naturally",
+  "image": "1779390274583.avif",
+  "excerpt": "Learn how natural lighting and creative angles can make every photo look more authentic, emotional, and visually stunning.",
+  "fullText": "Photography is more than just taking pictures — it is about capturing emotions, memories, and stories in the most beautiful way possible. Natural photography helps create authentic moments that feel real and timeless. Using soft lighting, creative angles, and the right environment can completely transform an ordinary photo into something extraordinary.\r\n\r\nOne of the most important elements in photography is natural light. Early morning and sunset lighting often provide the perfect warm tones for portraits and outdoor shoots. These moments create soft shadows and balanced highlights that make photos look cinematic and professional.\r\n\r\nCreative camera angles also play a major role in storytelling. Trying different perspectives, compositions, and framing techniques can make every image unique and visually appealing. Small details like background selection, posing, and timing can add powerful emotions to every photograph.\r\n\r\nProfessional photography is not only about expensive cameras — it is about creativity, patience, and capturing moments naturally. Whether it is a wedding, portrait session, or outdoor shoot, every click should tell a meaningful story and preserve memories forever.",
+  "date": "14 May 2026",
+  "createdAt": {
+    "$date": "2026-05-21T19:04:34.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T19:04:34.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f57694a20318a3e7759b7"
+  },
+  "title": "Behind the Scenes of a Wedding Shoot",
+  "image": "1779390365814.avif",
+  "excerpt": "Take a closer look at how professional photographers prepare, plan, and capture unforgettable wedding memories perfectly.",
+  "fullText": "Wedding photography is one of the most emotional and creative forms of photography. Every wedding tells a unique story filled with love, happiness, excitement, and unforgettable moments. Behind every perfect wedding photo is careful planning, preparation, and attention to detail.\r\n\r\nProfessional photographers begin by understanding the wedding schedule, venue, lighting conditions, and special moments that need to be captured. From bride and groom portraits to family photos and candid moments, every scene is planned to ensure nothing important is missed.\r\n\r\nLighting plays a huge role during wedding shoots. Natural sunlight, decorative lights, and indoor setups all require different camera settings and creative techniques. Photographers often use creative angles and candid photography styles to capture genuine emotions naturally.\r\n\r\nEditing is another important part of wedding photography. Professional color correction, skin retouching, and cinematic tones help transform photos into timeless memories. Every image is carefully enhanced while keeping the emotions natural and realistic.\r\n\r\nWedding photography is not just about taking pictures — it is about preserving memories that couples and families will cherish forever.",
+  "date": "02 April 2026",
+  "createdAt": {
+    "$date": "2026-05-21T19:05:13.578Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T19:06:05.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f57884a20318a3e7759ba"
+  },
+  "title": "Simple Photography Tips for Beginners",
+  "image": "1779390377287.avif",
+  "excerpt": "Discover beginner-friendly photography tips to improve composition, lighting, and camera confidence for better photos.",
+  "fullText": "Starting photography can feel challenging at first, but with practice and creativity, anyone can capture beautiful images. Understanding a few basic photography techniques can greatly improve photo quality and help beginners gain confidence behind the camera.\r\n\r\nOne of the first things to learn is composition. Following simple rules like the rule of thirds, leading lines, and balanced framing can make photos look more professional and visually attractive. Good composition helps guide the viewer’s attention naturally.\r\n\r\nLighting is another important factor in photography. Natural light often gives the best results, especially during sunrise and sunset. Beginners should experiment with different lighting conditions to understand how shadows and highlights affect an image.\r\n\r\nCamera stability also matters. Holding the camera properly or using a tripod can help avoid blurry photos. Beginners should also practice focusing on subjects correctly and adjusting basic camera settings like brightness and exposure.\r\n\r\nPhotography is all about creativity and storytelling. The more you practice and experiment with different styles, the more confident and skilled you become. Every photo is an opportunity to learn and capture something unique.",
+  "date": "18 March 2026",
+  "createdAt": {
+    "$date": "2026-05-21T19:05:44.290Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T19:06:17.290Z"
+  },
+  "__v": 0
+}]

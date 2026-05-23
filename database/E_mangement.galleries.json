@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6a0f35084a20318a3e775911"
+  },
+  "category": "wedding photography ",
+  "image": "uploads\\1779381512426-58212851-wdding2.avif",
+  "createdAt": {
+    "$date": "2026-05-21T16:38:32.523Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T16:38:32.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f35084a20318a3e775913"
+  },
+  "category": "wedding photography ",
+  "image": "uploads\\1779381512437-831874213-ikshana-productions-SHFOaVaVe2A-unsplash.jpg",
+  "createdAt": {
+    "$date": "2026-05-21T16:38:32.540Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T16:38:32.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f35794a20318a3e775917"
+  },
+  "category": "Nature photography ",
+  "image": "uploads\\1779381625630-812539940-nature2.jfif",
+  "createdAt": {
+    "$date": "2026-05-21T16:40:25.638Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T16:40:25.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f35794a20318a3e775919"
+  },
+  "category": "Nature photography ",
+  "image": "uploads\\1779381625631-563497613-Nature1.webp",
+  "createdAt": {
+    "$date": "2026-05-21T16:40:25.643Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T16:40:25.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f52024a20318a3e77592b"
+  },
+  "category": "Pre Wedding",
+  "image": "uploads\\1779388930410-236362158-pre2.avif",
+  "createdAt": {
+    "$date": "2026-05-21T18:42:10.447Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:42:10.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f52024a20318a3e77592d"
+  },
+  "category": "Pre Wedding",
+  "image": "uploads\\1779388930416-882332361-pre1.avif",
+  "createdAt": {
+    "$date": "2026-05-21T18:42:10.487Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:42:10.487Z"
+  },
+  "__v": 0
+}]

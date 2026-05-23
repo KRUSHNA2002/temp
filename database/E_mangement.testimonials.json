@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "6a0f54c44a20318a3e775963"
+  },
+  "name": "Rahul Sharma",
+  "role": "Wedding Client",
+  "review": "Absolutely amazing photography service! Every moment was captured beautifully and the editing quality was outstanding.",
+  "createdAt": {
+    "$date": "2026-05-21T18:53:56.844Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:53:56.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f54dc4a20318a3e775966"
+  },
+  "name": "Priya Mehta",
+  "role": "Portrait Client",
+  "review": "The photos turned out perfect. Very professional, creative, and friendly throughout the entire shoot.",
+  "createdAt": {
+    "$date": "2026-05-21T18:54:20.960Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:54:20.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f54ee4a20318a3e775969"
+  },
+  "name": "Aman Verma",
+  "role": "Event Organizer",
+  "review": "Highly recommended for events. The team captured every important moment with great attention to detail.",
+  "createdAt": {
+    "$date": "2026-05-21T18:54:38.967Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:54:38.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f55054a20318a3e77596c"
+  },
+  "name": "Sneha Patil",
+  "role": "Fashion Model",
+  "review": "Loved the creative direction and photo quality. The pictures looked premium and perfect for my portfolio.",
+  "createdAt": {
+    "$date": "2026-05-21T18:55:01.624Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:55:01.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0f551c4a20318a3e77596f"
+  },
+  "name": "Karan Joshi",
+  "role": "Travel Blogger",
+  "review": "Incredible photography skills and editing style. The photos truly brought my travel memories to life.",
+  "createdAt": {
+    "$date": "2026-05-21T18:55:24.360Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T18:55:24.360Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6a0cce9859b90c64b794488e"
+  },
+  "__v": 0,
+  "awards": "30+",
+  "clients": "200+",
+  "createdAt": {
+    "$date": "2026-05-19T20:56:56.427Z"
+  },
+  "desc1": "We capture emotions, stories, and unforgettable moments with creativity and precision. From portraits to weddings and events, our goal is to turn every frame into a beautiful memory that lasts forever.",
+  "desc2": "Professional & Creative Photography",
+  "experience": "25+",
+  "image": "uploads\\1779224256801-885519452-photo-1502982720700-bfff97f2ecac.avif",
+  "subtitle": "Passion Behind Every Click",
+  "title": "Capturing Timeless Moments",
+  "updatedAt": {
+    "$date": "2026-05-21T16:33:48.375Z"
+  }
+}]

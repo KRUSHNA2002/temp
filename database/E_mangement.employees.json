@@ -1,0 +1,242 @@
+[{
+  "_id": {
+    "$oid": "69432826afb08f8d719d6b97"
+  },
+  "firstName": "Sandip",
+  "lastName": "rathod",
+  "dateOfBirth": {
+    "$date": "2016-04-01T00:00:00.000Z"
+  },
+  "gender": "Male",
+  "maritalStatus": "Married",
+  "nationality": "07-Jun-1977",
+  "phone": "+1 (589) 304-3634",
+  "email": "s@gmail.com",
+  "tempAddress": "29-Oct-1999",
+  "permAddress": "26-Dec-1980",
+  "employeeId": "14-Jan-1999",
+  "jobTitle": "Fullstack Developer",
+  "department": "IT",
+  "supervisor": "IT",
+  "salary": 45,
+  "employmentType": "Contract",
+  "dateOfJoining": {
+    "$date": "2007-07-30T00:00:00.000Z"
+  },
+  "contractStart": null,
+  "contractEnd": null,
+  "emergencyName": "Sawyer Horn",
+  "emergencyRelation": "Spouse",
+  "emergencyPhone": "+1 (575) 116-3174",
+  "profilePicture": "1766008870563.jfif",
+  "idDocuments": "1766008870564.jfif",
+  "password": "$2b$10$twXYoLNbOZN1l2aSSlcAYeDgUOh0WBGLRe3.ghowFBUSDZWQeOMOK",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-12-17T22:01:10.591Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T22:27:23.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694957038096a931e08caade"
+  },
+  "firstName": "Krushna",
+  "lastName": "Madden",
+  "dateOfBirth": {
+    "$date": "2017-04-17T00:00:00.000Z"
+  },
+  "gender": "Male",
+  "maritalStatus": "Single",
+  "nationality": "20-Jul-2002",
+  "phone": "+1 (885) 674-4438",
+  "email": "kk@gmail.com",
+  "tempAddress": "12-Jul-2002",
+  "permAddress": "30-Jun-2007",
+  "employeeId": "30-Mar-1986",
+  "jobTitle": "Frontend Developer",
+  "department": "Designer",
+  "supervisor": "TL",
+  "salary": 65,
+  "employmentType": "Intern",
+  "dateOfJoining": {
+    "$date": "2016-03-16T00:00:00.000Z"
+  },
+  "emergencyName": "Elmo Casey",
+  "emergencyRelation": "Friend",
+  "emergencyPhone": "+1 (241) 427-5354",
+  "profilePicture": "1766414083164.jfif",
+  "idDocuments": "1766414083169.jfif",
+  "password": "$2b$10$07UYV8gwa4Id9PWNIq7s4OQkkyGeuoSXMkLjky8Rbusu3b7cbY.Fa",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-12-22T14:34:43.312Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T14:35:13.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69496dce8096a931e08caafd"
+  },
+  "firstName": "ee",
+  "lastName": "Obrien",
+  "dateOfBirth": {
+    "$date": "1976-03-14T00:00:00.000Z"
+  },
+  "gender": "Female",
+  "maritalStatus": "Single",
+  "nationality": "24-Feb-1975",
+  "phone": "+1 (509) 292-8904",
+  "email": "ss@gmail.com",
+  "tempAddress": "21-Feb-2016",
+  "permAddress": "22-Sep-2001",
+  "employeeId": "13-Feb-2020",
+  "jobTitle": "Fullstack Developer",
+  "department": "Marketing",
+  "supervisor": "Directer",
+  "salary": 26,
+  "employmentType": "Contract",
+  "dateOfJoining": {
+    "$date": "2020-11-30T00:00:00.000Z"
+  },
+  "emergencyName": "Veda Franco",
+  "emergencyRelation": "Friend",
+  "emergencyPhone": "+1 (122) 108-1517",
+  "profilePicture": "1766419918264.jfif",
+  "idDocuments": "1766419918270.jfif",
+  "password": "121212",
+  "role": "employee",
+  "createdAt": {
+    "$date": "2025-12-22T16:11:58.421Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-11T19:54:58.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a04c0dc67703dcd62632f55"
+  },
+  "firstName": "Krushna",
+  "lastName": "Waghumbare",
+  "dateOfBirth": {
+    "$date": "2002-08-27T00:00:00.000Z"
+  },
+  "gender": "Male",
+  "maritalStatus": "Single",
+  "nationality": "18-Jul-1997",
+  "phone": "7020787143",
+  "email": "krushna27@gmail.com",
+  "tempAddress": "29-May-1981",
+  "permAddress": "18-Jun-2010",
+  "employeeId": "30-Jul-1974",
+  "jobTitle": "Fullstack Developer",
+  "department": "IT",
+  "supervisor": "Manager",
+  "salary": 57,
+  "employmentType": "Part-time",
+  "dateOfJoining": {
+    "$date": "1978-11-04T00:00:00.000Z"
+  },
+  "emergencyName": "Chava Adkins",
+  "emergencyRelation": "Spouse",
+  "emergencyPhone": "+1 (813) 228-8449",
+  "profilePicture": "1778696412569.png",
+  "idDocuments": "1778696412584.png",
+  "password": "$2b$10$5MuRrTBZt1FzaPLCdFxhIu83axByX9RFcEMnoUdUorxCQSJP6DoWS",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-05-13T18:20:12.702Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-13T23:28:37.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0cb02cf6075d31b87a701f"
+  },
+  "firstName": "Deborah",
+  "lastName": "Roy",
+  "dateOfBirth": {
+    "$date": "2026-08-27T00:00:00.000Z"
+  },
+  "gender": "Other",
+  "maritalStatus": "Divorced",
+  "nationality": "21-Feb-1991",
+  "phone": "+1 (642) 427-4511",
+  "email": "rydatyj@mailinator.com",
+  "tempAddress": "15-Jun-1980",
+  "permAddress": "16-Dec-1993",
+  "employeeId": "14-Dec-1978",
+  "jobTitle": "Frontend Developer",
+  "department": "Designer",
+  "supervisor": "Manager",
+  "salary": 90,
+  "employmentType": "Contract",
+  "dateOfJoining": {
+    "$date": "1983-09-24T00:00:00.000Z"
+  },
+  "emergencyName": "Rinah Howell",
+  "emergencyRelation": "Sibling",
+  "emergencyPhone": "+1 (491) 348-6887",
+  "profilePicture": "1779216428549.jpg",
+  "idDocuments": "1779216428550.avif",
+  "password": "$2b$10$SNUOxs4KchcBCUsZaWRzTe00pX7bXc06ooT2LG5w5iJLY39JMaJ/W",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-05-19T18:47:08.638Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-19T18:47:08.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0cb592f6075d31b87a7032"
+  },
+  "firstName": "Eagan",
+  "lastName": "Talley",
+  "dateOfBirth": {
+    "$date": "2021-08-30T00:00:00.000Z"
+  },
+  "gender": "Other",
+  "maritalStatus": "Married",
+  "nationality": "16-Jan-1979",
+  "phone": "+1 (591) 129-7885",
+  "email": "zamabot@mailinator.com",
+  "tempAddress": "29-Aug-1986",
+  "permAddress": "05-Mar-2026",
+  "employeeId": "25-Jan-2009",
+  "jobTitle": "Frontend Developer",
+  "department": "IT",
+  "supervisor": "Manager",
+  "salary": 81,
+  "employmentType": "Contract",
+  "dateOfJoining": {
+    "$date": "2026-08-27T00:00:00.000Z"
+  },
+  "emergencyName": "Brett Craft",
+  "emergencyRelation": "Sibling",
+  "emergencyPhone": "+1 (743) 241-5272",
+  "profilePicture": "1779217810651.avif",
+  "idDocuments": "1779217810653.webp",
+  "password": "$2b$10$EWv749qi9q8EGCHpHHa73eKH8/xpmhG25uR7E20RdTprzyogTLwkK",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-05-19T19:10:10.745Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-19T19:10:10.745Z"
+  },
+  "__v": 0
+}]
